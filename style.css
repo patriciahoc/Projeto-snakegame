@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  height: 95vh;
+  width: 95;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(204, 230, 221);  
+  
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+  color: rgb(12, 88, 63);
+  font-size: 80px;
+}
